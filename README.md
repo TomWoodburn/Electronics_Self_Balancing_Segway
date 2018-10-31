@@ -1,8 +1,6 @@
 # Electronics_Self_Balancing_Segway
 Applying the theory learnt from two Electrical Engineering modules, our group achieved a self-balancing two wheeled robot, whose movements could be controlled remotely.   For this project we were given the robot, we had to implement Python code onto the Pyboard computer. The Pyboard’s electrical modules included an accelerometer, a gyroscope and a microphone. 
 
-Each milestone represents steps to achieve the final result of balancing while dancing (Milstone 4b). For example, Milestone 3 is for the robot to dance with stabilsers. Milestone 4 is code specifically for testing the correct P, K and I values for the feedback control to enable the robot to self balance.
-
 In the "Self Balancing Segway Code Use" folder, are the stages of code written and edited to achieve segway control. 
 **Using the Stabilisers**
 Milestone 1: Controlling the motors using bluetooth and Adafruit's remote control app. 
