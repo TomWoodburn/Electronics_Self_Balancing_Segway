@@ -2,6 +2,7 @@
 Applying the theory learnt from two Electrical Engineering modules, our group achieved a self-balancing two wheeled robot, whose movements could be controlled remotely.   For this project we were given the robot, we had to implement Python code onto the Pyboard computer. The Pyboard’s electrical modules included an accelerometer, a gyroscope and a microphone. 
 
 In the "Self Balancing Segway Code Use" folder, are the stages of code written and edited to achieve segway control. 
+
 **Using the Stabilisers**
 Milestone 1: Controlling the motors using bluetooth and Adafruit's remote control app. 
 Milestone 2: Using the pyboard's microphone to detect musical beats, when a beat was detected a built in LED would flash on the Pyboard.
